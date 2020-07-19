@@ -6,7 +6,7 @@ This isn't bootstrap for building web pages, it's a method of installing a clust
 
 This is a mirror of the repository provided at https://git.flipkick.media:cme/git-bootstrap.git
 
-We cant use github for µServices as we are unable to create domains and organisations and this sorta makes organising true µServices impossible. Get your own git repository and use Gitea[https://gitea.io]
+We cant use github for µServices as we are unable to create domains and organisations and this sorta makes organising true µServices impossible. Get your own git repository and use [https://gitea.io]Gitea
 
 The CME is designed to enable anyone to run a cluster and only use cloud services when they need to scale. Your on premis hardware, laptops and old hardware will probably be enough to power your entire business. Why pay for it when you already have it?
 
@@ -27,6 +27,10 @@ Once you have this, launch the WSL2 shell and run the install.sh script.
 We prefer Ubuntu or Alpine as these are the most popular, best supported systems available. Other linux distributions may work if they use a Debian (APT) or Redhat (YUM) based installers for their packages.
 
 To install the Linux CME you will need to simply clone the cme-boostrap.git repository and run the install.sh script. This will install the source code.
+
+## Id like to help
+
+So would we! admin@flipkick.media or just join the git server at https://git.flipkick.media and join discord too! 
 
 ### Support or Contact
 
