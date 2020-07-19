@@ -1,5 +1,11 @@
 ## Welcome to the flipkick CME (Bootstrap - no this isn't bootstrap for building web pages 8-) )!
 
+### Github Note
+
+This is a mirror of the repository provided at https://git.flipkick.media
+
+We cant use github for µServices as we are unable to create domains and organisations and this sorta makes organising true µServices impossible. Get your own git repository and use Gitea[https://gitea.io]
+
 The CME is designed to enable anyone to run a cluster and only use cloud services when they need to scale. Your on premis hardware, laptops and old hardware will probably be enough to power your entire business. Why pay for it when you already have it?
 
 ### Getting Started
