@@ -4,7 +4,7 @@ This isn't bootstrap for building web pages, it's a method of installing a clust
 
 ### Github Note
 
-This is a mirror of the repository provided at https://git.flipkick.media
+This is a mirror of the repository provided at https://git.flipkick.media:cme/git-bootstrap.git
 
 We cant use github for µServices as we are unable to create domains and organisations and this sorta makes organising true µServices impossible. Get your own git repository and use Gitea[https://gitea.io]
 
