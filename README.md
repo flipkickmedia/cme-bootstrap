@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to the flipkick CME!
 
-You can use the [editor on GitHub](https://github.com/flipkickmedia/cme-bootstrap/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The CME is designed to enable anyone to run a cluster and only use cloud services when they need to scale. Your on premis hardware, laptops and old hardware will probably be enough to power your entire business. Why pay for it when you already have it?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Getting Started
 
-### Markdown
+If you have a Windows 10 machine, a linux server, raspberry pi or pretty much any device which can run linux you can get started.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Windows 10
 
-```markdown
-Syntax highlighted code block
+Currently we only support WSL2, and this is only available using a windows insider build but mainstream support is shortly on it's way.
 
-# Header 1
-## Header 2
-### Header 3
+To install the WSL2 Instance you first need to get the cme-bootstrap-win repository, available [http://git.flipkick.media:cme/cme-bootstrap-win.git]here
 
-- Bulleted
-- List
+Once you have this, launch the WSL2 shell and run the install.sh script.
 
-1. Numbered
-2. List
+### Linux 
 
-**Bold** and _Italic_ and `Code` text
+We prefer Ubuntu or Alpine as these are the most popular, best supported systems available. Other linux distributions may work if they use a Debian (APT) or Redhat (YUM) based installers for their packages.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flipkickmedia/cme-bootstrap/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To install the Linux CME you will need to simply clone the cme-boostrap.git repository and run the install.sh script. This will install the source code.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having problems? Oh no!
+
+1 Head over to git.flipkick.media and complain
+2 Join discord https://discord.gg/ycDDyKeCheck and complain
+3 Or, as it's often said, RTFM. There is no f*@!# manual just yet but there really shouldn't need to be. The idea is it just works.
+4 If you are 0ld sk002 and you prefer email, try sending one to admin@flipkick.media and you may just recieve a reply!
+5 Join the git.flipkick.media server and contribute! The more the merrier.
+
