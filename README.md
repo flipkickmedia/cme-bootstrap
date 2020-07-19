@@ -4,9 +4,9 @@ This isn't bootstrap for building web pages, it's a method of installing a clust
 
 ### Github Note
 
-This is a mirror of the repository provided at https://git.flipkick.media:cme/git-bootstrap.git
+This is a mirror of the repository provided at [https://git.flipkick.media:cme/git-bootstrap.git]this repository
 
-We cant use github for µServices as we are unable to create domains and organisations and this sorta makes organising true µServices impossible. Get your own git repository and use [https://gitea.io]Gitea
+We cant use github for µServices as we are unable to create domains and organisations and this sorta makes organising true µServices impossible. Get your own git repository and use [https://gitea.io](Gitea)
 
 The CME is designed to enable anyone to run a cluster and only use cloud services when they need to scale. Your on premis hardware, laptops and old hardware will probably be enough to power your entire business. Why pay for it when you already have it?
 
@@ -18,7 +18,7 @@ If you have a Windows 10 machine, a linux server, raspberry pi or pretty much an
 
 Currently we only support WSL2, and this is only available using a windows insider build but mainstream support is shortly on it's way.
 
-To install the WSL2 Instance you first need to get the cme-bootstrap-win repository, available [http://git.flipkick.media:cme/cme-bootstrap-win.git]here
+To install the WSL2 Instance you first need to get the cme-bootstrap-win repository, available [http://git.flipkick.media:cme/cme-bootstrap-win.git](here)
 
 Once you have this, launch the WSL2 shell and run the install.sh script.
 
@@ -30,7 +30,7 @@ To install the Linux CME you will need to simply clone the cme-boostrap.git repo
 
 ## Id like to help
 
-So would we! admin@flipkick.media or just join the git server at https://git.flipkick.media and join discord too! 
+So would we! admin@flipkick.media or just [https://git.flipkick.media](join the git server) and [https://discord.gg/ycDDyKeCheck](join discord too)! 
 
 ### Support or Contact
 
