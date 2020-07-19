@@ -1,4 +1,6 @@
-## Welcome to the flipkick CME (Bootstrap - no this isn't bootstrap for building web pages 8-) )!
+## Welcome to the flipkick CME-bootstrap
+
+This isn't bootstrap for building web pages, it's a method of installing a cluster on your existing hardware and scaling into the cloud, safely, securely and more importantly, cost effectively!
 
 ### Github Note
 
