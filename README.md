@@ -4,7 +4,7 @@ This isn't bootstrap for building web pages, it's a method of installing a clust
 
 ### Github Note
 
-This is a mirror of the repository provided at [this repository](https://git.flipkick.media:cme/git-bootstrap.git)
+This is a mirror of the repository provided at [this repository](https://git.flipkick.media/cme/git-bootstrap.git)
 
 We cant use github for µServices as we are unable to create domains and organisations and this sorta makes organising true µServices impossible. Get your own git repository and use [Gitea](https://gitea.io)
 
@@ -12,13 +12,13 @@ The CME is designed to enable anyone to run a cluster and only use cloud service
 
 ### Getting Started
 
-If you have a Windows 10 machine, a linux server, raspberry pi or pretty much any device which can run linux you can get started.
+If you have a Windows 10 machine, a Linux server, Raspberry PI 4 or pretty much any device which can run linux you can get started.
 
 ### Windows 10
 
-Currently we only support WSL2, and this is only available using a windows insider build but mainstream support is shortly on it's way.
+Currently we only support WSL2 and this is only available using a Windows insider build but mainstream support is shortly on it's way.
 
-To install the WSL2 Instance you first need to get the [cme-bootstrap-win repository](http://git.flipkick.media:cme/cme-bootstrap-win.git)
+To install the WSL2 Instance you first need to get the [cme-bootstrap-win repository](http://git.flipkick.media/cme/cme-bootstrap-win.git)
 
 Once you have this, launch the WSL2 shell and run the install.sh script.
 
@@ -30,7 +30,7 @@ To install the Linux CME you will need to simply clone the cme-boostrap.git repo
 
 ## Id like to help
 
-So would we! admin@flipkick.media or just (join the git server)[https://git.flipkick.media] and (join discord too!)[https://discord.gg/ycDDyKeCheck] 
+So, we would love you to help! admin@flipkick.media or just [join the git server](https://git.flipkick.media) and (join discord too!)(https://discord.gg/ycDDyKeCheck) 
 
 ### Support or Contact
 
