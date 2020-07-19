@@ -1,6 +1,6 @@
 ## Welcome to the flipkick CME-bootstrap
 
-This isn't bootstrap for building web pages, it's a method of installing a cluster on your existing hardware and scaling into the cloud, safely, securely and more importantly, cost effectively. It also provides a nice way of developing micro services you can build code like kids build lego!
+This isn't bootstrap for building web pages, it's a method of installing a cluster on your existing hardware and scaling into the cloud, safely, securely and more importantly, cost effectively. It also provides a nice way of developing true µMicroservices, so  you can build app code like kids build lego and write code with your head focussed on the problem not on the 95% of crap developers are meant to do these days!
 
 ### Github Note
 
