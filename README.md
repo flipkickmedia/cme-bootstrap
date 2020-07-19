@@ -1,4 +1,4 @@
-## Welcome to the flipkick CME!
+## Welcome to the flipkick CME (Bootstrap - no this isn't bootstrap for building web pages 8-) )!
 
 The CME is designed to enable anyone to run a cluster and only use cloud services when they need to scale. Your on premis hardware, laptops and old hardware will probably be enough to power your entire business. Why pay for it when you already have it?
 
